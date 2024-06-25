@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  display: grid;
+  justify-content: center;
+  background-color: rgb(81, 177, 250);
+  min-height: 100vh;
+  place-content: center;
+}
