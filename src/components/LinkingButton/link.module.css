@@ -1,0 +1,9 @@
+.wrapper  {
+    background-color: cornflowerblue;
+    color: aliceblue;
+    margin-top: 1.5rem;
+    border-radius: 10px;
+    padding: 0.5rem;
+    width: 8rem;
+    text-decoration: none;
+}
